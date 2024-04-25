@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'SF Pro Display Light';
+  src: url('./files/SF-Pro-Display-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SF Pro Display Regular';
+  src: url('./files/SF-Pro-Display-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SF Pro Display Semibold';
+  src: url('./files/SF-Pro-Display-Semibold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SF Pro Display Heavy';
+  src: url('./files/SF-Pro-Display-Heavy.otf') format('opentype');
+  font-style: normal;
+}

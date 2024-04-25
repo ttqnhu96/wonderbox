@@ -1,0 +1,18 @@
+:root {
+  --font-light: 'SF Pro Display Light';
+  --font-regular: 'SF Pro Display Regular';
+  --font-semibold: 'SF Pro Display Semibold';
+  --font-heavy: 'SF Pro Display Heavy';
+  --primary-bg-color: #ececec;
+  --text-color: #323232;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-light), sans-serif;
+  background-color: var(--primary-bg-color);
+  color: var(--text-color);
+  font-size: 18px;
+}
